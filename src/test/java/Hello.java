@@ -1,7 +1,5 @@
 public class Hello {
-    //hello
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-        System.out.println("Pull is waiting");
-    }
+    ///
+
+    //changed on the line 5 and making conflict
 }
